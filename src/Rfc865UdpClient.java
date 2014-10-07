@@ -6,7 +6,11 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
-
+/**
+ * Name: Andy Chong Chin Shin
+ * Group: TS2
+ * IP Address: <YourClientIPAddressHere>
+ */
 public class Rfc865UdpClient {
 	public static void main(String[] args) {
 		//Open UDP Socket
